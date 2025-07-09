@@ -1,0 +1,12 @@
+__pycache__/
+.vscode
+.idea
+outputs/
+temp.py
+
+assets/
+
+temp_gpt2.py
+models/
+smoothquart.py
+/models/
